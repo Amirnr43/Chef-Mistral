@@ -1,0 +1,143 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Inter, sans-serif;
+    background-color: #fafaf8;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:#ffffff ;
+    box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.10), 0px 1px 2px 0px rgba(0, 0, 0, 0.06);
+}
+.logo{
+width: 43;
+height: 52;
+}
+.Title{
+    font-family: "Inter",sans-serif;
+    font-weight: 400;
+    font-size: 2rem;
+    letter-spacing: -0.05em;
+    margin-left: 10px;
+}
+.searchbox{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 30px 10px;
+}
+
+
+.userfind{
+    margin-right: 10px;
+    border-radius: 6px;
+    border: 1px solid #D1D5DB;
+    padding: 9px 13px;
+    width: 300px;
+    height: 40px;
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
+}
+.addbutton{
+    background-color: #141413;
+    height: 40px;
+    width: 130px;
+    color: #ffffff;
+    border-radius: 6px;
+    border: 1px solid #D1D5DB;
+}
+.addbutton::before{
+    content: "+";
+    margin-right: 5px;
+}
+.hand{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0 auto;
+    width: fit-content;
+}
+.hand > h1 {
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 38px;
+    letter-spacing: 0;
+    color:#141413;
+}
+.hand > ul {
+    color:#475467;
+
+}
+.hand > ul > li {
+    margin-bottom: 20px;
+}
+.getrecipe{
+width: 594px;
+height: auto;
+border-radius: 8px;
+display: flex;
+align-items: center;
+justify-content: center;
+margin: 30px auto;
+background-color:#f0efeb ;
+border-radius: 8px;
+}
+.getrecipe > .textparent > h1 {
+font-family: Inter;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+letter-spacing: 0%;
+}
+.getrecipe > .textparent > p{
+font-family: Inter, sans-serif;  
+font-weight: 400;  
+font-size: 14px;  
+line-height: 20px;  
+letter-spacing: 0;  
+}
+.textparent{
+    margin-right: 100px;
+}
+
+.getrecipe > button {
+    background-color: #D17557;
+    border: 1px solid transparent; 
+    color: #FAFAF8;
+    font-family: Inter, sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0;
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
+    top: 42px;
+    left: 438px;
+    border-radius: 6px;
+    padding: 9px 17px; 
+}
+
+.suggest-wrapper{
+    color:#475467;
+    font-weight: 700;
+    margin-left: 20px;
+    font-size: 1.1rem;
+    line-height: 28px;
+    letter-spacing: 0;
+}
+.suggest-wrapper > * {
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+
