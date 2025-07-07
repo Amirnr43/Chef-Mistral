@@ -1,3 +1,58 @@
+# 🍽️ Chef‑Mistral
+
+A modern recipe app built with **React** and **Vite**, featuring intuitive UI, dynamic styling, and smooth user interactions.
+
+---
+
+## ⚡ Live Demo
+
+Try it now: *[Link to your live site]*
+
+---
+
+## 🧭 Overview
+
+Chef‑Mistral lets food lovers browse and explore recipes with ease. Powered by React for slick user experiences and Vite for lightning-fast loads.
+
+---
+
+## 🌟 Key Features
+
+- 🔍 **Recipe Search** – filter recipes by ingredients or categories  
+- 📄 **Recipe Detail View** – step-by-step instructions with images  
+- ✅ **Favorites** – save your top picks using local storage  
+- 🎨 **Responsive Design** – mobile-first layout for carefree browsing  
+- ⚡ **Instant Refresh with Vite** during development  
+
+---
+
+## 🧱 Tech Stack
+
+| Technology        | Purpose                         |
+|-------------------|---------------------------------|
+| **React**         | UI components & state handling |
+| **Vite**          | Lightweight development server |
+| **CSS Modules**   | Compact, scoped styling         |
+| **localStorage**  | Persistent favorites           |
+
+---
+
+## 🚀 Getting Started
+
+### Requirements
+
+- Node.js (v14+)  
+- npm (v6+) or yarn  
+
+### Setup
+
+```bash
+git clone https://github.com/Amirnr43/Chef-Mistral.git
+cd Chef-Mistral
+
+npm install
+npm run dev
+
 How to Set Up Your OpenRouter API Key
 1- Get your OpenRouter API key:
 
