@@ -4,7 +4,7 @@ A modern recipe app built with **React** and **Vite**, featuring intuitive UI, d
 
 
 ## 🧭 Overview
-
+![localhost_5173_](https://github.com/user-attachments/assets/4e96caaf-5cc6-4155-8e0a-050fccacc125)
 Chef‑Mistral lets food lovers browse and explore recipes with ease. Powered by React for slick user experiences and Vite for lightning-fast loads.
 
 ---
@@ -70,6 +70,7 @@ This file is included in .gitignore to keep your key private.
 Start the project as usual (e.g., npm run dev or npm start).
 
 The app will use the API key from your .env.local file to connect to OpenRouter.
+
 
 
 
