@@ -2,13 +2,6 @@
 
 A modern recipe app built with **React** and **Vite**, featuring intuitive UI, dynamic styling, and smooth user interactions.
 
----
-
-## ⚡ Live Demo
-
-Try it now: *[Link to your live site]*
-
----
 
 ## 🧭 Overview
 
